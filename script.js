@@ -6,10 +6,6 @@ const meaningHeaderElement = document.getElementById('meanings-header');
 const searchBoxElement = document.getElementById('search-box');
 const searchButtonElement = document.getElementById('search-button');
 
-// document.addEventListener('DOMContentLoaded', () => {
-//     getDefinition();
-// });
-
 searchButtonElement.addEventListener('click', () => {
     let searchWord = searchBoxElement.value;
     while (wordContentElement.hasChildNodes()){
@@ -25,6 +21,7 @@ async function getDefinition(searchWord) {
         const data = await response.json();
 
         const wordInfo = data[0];
+        console.log(wordInfo);
         let word = wordInfo.word;
         word = word.charAt(0).toUpperCase() + word.slice(1);
 
