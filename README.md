@@ -1,6 +1,8 @@
 # Searchable Dictionary
 
-This is a project I built that utilizes the [Free Dictionary API](https://dictionaryapi.dev/) to allow the user to look up a word and get it's definitions, parts of speech, synonyms, and antonyms. *No CSS applied... to see it with styles see it at my personal site [here]()*
+This is a project I built that utilizes the [Free Dictionary API](https://dictionaryapi.dev/) to allow the user to look up a word and get it's definitions, parts of speech, synonyms, and antonyms. *No CSS applied... to see it with styles see it at my personal site [here](https://sammyg951.github.io/CV-website/interactive-projects/searchable-dictionary/index.html)!*  
+
+*Disclaimer: This API is not the most efficient, or the most accurate, but the purpose of the project was to get some practice using API's.*
 
 ## Table of contents
 
@@ -38,7 +40,7 @@ The inspiration for this project came to me when I was searching through a list 
 
 ### Useful resources
 
-- [Public API's](https://github.com/public-apis/public-apis) - List of free public API's
+- [Public API's](https://github.com/public-apis/public-apis) - List of free public API's.
 - [Free Dictionary API](https://dictionaryapi.dev/) - This is the API used for fetching dictionary data.
 - [MDN Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - This helped with JavaScript syntax.
 
