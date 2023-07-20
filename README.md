@@ -30,7 +30,7 @@ This is a project I built that utilizes the [Free Dictionary API](https://dictio
 
 ### What I learned
 
-In this project I helped me learn and sharpen my skills with fetching online data with API's, and using DOM to update the web page.
+In this project helped me learn and sharpen my skills with fetching online data with API's, and using DOM to update the web page.
 
 
 ### Purpose for this project
