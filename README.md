@@ -46,5 +46,5 @@ The inspiration for this project came to me when I was searching through a list 
 
 ## Author
 
-- Github - [@SammyG951](https://github.com/)
+- Github - [@SammyG951](https://github.com/SammyG951)
 - [LinkedIn](https://www.linkedin.com/in/samuel-gonzalez-iii-b8057b1a3/)
